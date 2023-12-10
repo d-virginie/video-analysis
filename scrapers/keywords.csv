@@ -1,0 +1,503 @@
+Category,Type,Name,Select
+Beauty & HPC,brand,L'Oréal,Y
+Beauty & HPC,brand,Estée Lauder,Y
+Beauty & HPC,brand,Nivea,Y
+Beauty & HPC,brand,Gillette,Y
+Beauty & HPC,brand,Dove,Y
+Beauty & HPC,brand,Guerlain,Y
+Beauty & HPC,brand,Lancôme,Y
+Beauty & HPC,brand,Clinique,Y
+Beauty & HPC,brand,Pantene,Y
+Beauty & HPC,brand,Garnier,Y
+Beauty & HPC,brand,Maybelline,Y
+Beauty & HPC,brand,Head & Shoulders,Y
+Beauty & HPC,brand,PECHOIN,Y
+Beauty & HPC,brand,Johnson's,Y
+Beauty & HPC,brand,Clarins,Y
+Beauty & HPC,brand,Procter & Gamble,Y
+Beauty & HPC,brand,M.A.C,Y
+Beauty & HPC,brand,SK-II,Y
+Beauty & HPC,brand,Olay,Y
+Beauty & HPC,brand,Benefit beauty,Y
+Beauty & HPC,brand,Yves Rocher,Y
+Beauty & HPC,brand,Natura,
+Beauty & HPC,brand,Rexona,Y
+Beauty & HPC,brand,L'Occitane,Y
+Beauty & HPC,brand,Schwarzkopf,Y
+Beauty & HPC,brand,Axe,
+Beauty & HPC,brand,Lynx,
+Beauty & HPC,brand,Elsève,Y
+Beauty & HPC,brand,Elvive,Y
+Beauty & HPC,brand,Neutrogena,Y
+Beauty & HPC,brand,Old Spice,
+Beauty & HPC,brand,Lux beauty,Y
+Beauty & HPC,brand,Fresh,
+Beauty & HPC,brand,CHANDO,Y
+Beauty & HPC,brand,Sulwhasoo,Y
+Beauty & HPC,brand,The History of Whoo,Y
+Beauty & HPC,brand,Shiseido,Y
+Beauty & HPC,brand,Palmolive,Y
+Beauty & HPC,brand,Biore,Y
+Beauty & HPC,brand,Sunsilk,Y
+Beauty & HPC,brand,La Roche-Posay,Y
+Beauty & HPC,brand,Rejoice,
+Beauty & HPC,brand,Clear,
+Beauty & HPC,brand,Bobbi Brown,Y
+Beauty & HPC,brand,Kosé,
+Beauty & HPC,brand,TRESemme,Y
+Beauty & HPC,brand,Herbal Essences,Y
+Beauty & HPC,brand,Lifebuoy,Y
+Beauty & HPC,brand,Vichy,Y
+Beauty & HPC,brand,Oriflame,Y
+Beauty & HPC,brand,Suave,
+Beauty & HPC,brand,Syoss,Y
+Beauty & HPC,brand,E.l.f. beauty,Y
+Beauty & HPC,brand,Glossier,Y
+Beauty & HPC,brand,ColourPop,Y
+Beauty & HPC,brand,Kiehls,Y
+Beauty & HPC,brand,Maybelline,Y
+Beauty & HPC,brand,Shu Uemura,Y
+Beauty & HPC,brand,Oddity,Y
+Tech,brand,Apple,Y
+Tech,brand,Samsung,Y
+Tech,brand,Huawei,Y
+Tech,brand,Dell Technologies,Y
+Tech,brand,LG Group,Y
+Tech,brand,Sony,Y
+Tech,brand,Midea,Y
+Tech,brand,Panasonic,Y
+Tech,brand,HP,Y
+Tech,brand,Canon,Y
+Tech,brand,Xbox,Y
+Tech,brand,Gree,
+Tech,brand,PlayStation,Y
+Tech,brand,Haier,Y
+Tech,brand,Xiaomi,Y
+Tech,brand,Hikvision,
+Tech,brand,Lenovo,Y
+Tech,brand,Goertek,Y
+Tech,brand,BOE,Y
+Tech,brand,Mitsubishi Electric,Y
+Tech,brand,Nintendo,Y
+Tech,brand,Techtronic Industries,Y
+Tech,brand,Western Digital,Y
+Tech,brand,ZTE,Y
+Tech,brand,Kyocera,Y
+Tech,brand,Sharp,
+Tech,brand,Quanta Computer,Y
+Tech,brand,Toshiba,Y
+Tech,brand,Motorola Solutions,Y
+Tech,brand,OnePlus,
+Tech,brand,Harman,Y
+Tech,brand,Fujifilm,Y
+Tech,brand,ASUS,Y
+Tech,brand,Whirlpool,
+Tech,brand,Wii,Y
+Tech,brand,Logitech,Y
+Tech,brand,Seb,
+Tech,brand,Arçelik,
+Tech,brand,Trimble Navigation,
+Tech,brand,Pegatron,
+Tech,brand,Transsion,
+Tech,brand,Sandisk,
+Tech,brand,TCL CSOT,
+Tech,brand,Lens Technology,
+Tech,brand,Coway,
+Tech,brand,Brother Industries,
+Tech,brand,MSI,
+Tech,brand,Miele,
+Tech,brand,Vestel,
+Tech,brand,Supor,
+Beauty & HPC,keyword,beauty supplies,Y
+Beauty & HPC,keyword,cosmetics,Y
+Beauty & HPC,keyword,makeup revolution,Y
+Beauty & HPC,keyword,makeup brush set,Y
+Beauty & HPC,keyword,makeup kits,Y
+Beauty & HPC,keyword,ordinary skin care,Y
+Beauty & HPC,keyword,makeup bag,Y
+Beauty & HPC,keyword,nail color,Y
+Beauty & HPC,keyword,eye curler,Y
+Beauty & HPC,keyword,cosmetic store,Y
+Beauty & HPC,keyword,lancôme perfume,Y
+Beauty & HPC,keyword,skin care products,Y
+Beauty & HPC,keyword,rare beauty blush,Y
+Beauty & HPC,keyword,ponds facial wash,Y
+Beauty & HPC,keyword,makeup box,Y
+Beauty & HPC,keyword,best eye cream,Y
+Beauty & HPC,keyword,it cosmetics cc cream,Y
+Beauty & HPC,keyword,makeup set,Y
+Beauty & HPC,keyword,natural makeup look,Y
+Beauty & HPC,keyword,makeup highlighter,Y
+Beauty & HPC,keyword,cosmetics company store,Y
+Beauty & HPC,keyword,maybelline sky high mascara,Y
+Beauty & HPC,keyword,best moisturizer for dry skin,Y
+Beauty & HPC,keyword,chanel makeup,Y
+Beauty & HPC,keyword,dior makeup,Y
+Beauty & HPC,keyword,skin light cream,Y
+Beauty & HPC,keyword,glossier perfume,Y
+Beauty & HPC,keyword,tropics skin care,Y
+Beauty & HPC,keyword,makeup contour,Y
+Beauty & HPC,keyword,best skin care products,Y
+Beauty & HPC,keyword,makeup products,Y
+Beauty & HPC,keyword,korean makeup,Y
+Beauty & HPC,keyword,natural makeup,Y
+Beauty & HPC,keyword,palette makeup,Y
+Beauty & HPC,keyword,beauty product,Y
+Beauty & HPC,keyword,best moisturizer for oily skin,Y
+Beauty & HPC,keyword,best eye cream for dark circles,Y
+Beauty & HPC,keyword,ponds bb cream,Y
+Beauty & HPC,keyword,korean skin care,Y
+Beauty & HPC,keyword,korean skincare,Y
+Beauty & HPC,keyword,glossier you perfume,Y
+Beauty & HPC,keyword,kbeauty,Y
+Beauty & HPC,keyword,mario badescu drying lotion,Y
+Beauty & HPC,keyword,huda beauty lipstick,Y
+Beauty & HPC,keyword,bobbi brown makeup,Y
+Beauty & HPC,keyword,elemis cleansing balm,Y
+Beauty & HPC,keyword,bareminerals foundation,Y
+Beauty & HPC,keyword,skin care face wash,Y
+Beauty & HPC,keyword,cleaning makeup brushes,Y
+Beauty & HPC,keyword,maybelline sky high,Y
+Beauty & HPC,keyword,ponds white beauty,Y
+Beauty & HPC,keyword,sky high maybelline,Y
+Beauty & HPC,keyword,erborian cc cream,Y
+Beauty & HPC,keyword,best makeup brushes,Y
+Beauty & HPC,keyword,ponds white beauty cream,Y
+Beauty & HPC,keyword,makeup shop,Y
+Beauty & HPC,keyword,fenty lip gloss,Y
+Beauty & HPC,keyword,goree cream,Y
+Beauty & HPC,keyword,too faced concealer,Y
+Beauty & HPC,keyword,korean beauty,Y
+Beauty & HPC,keyword,cosmetic shop,Y
+Beauty & HPC,keyword,cosmetic products,Y
+Beauty & HPC,keyword,makeup stores,Y
+Beauty & HPC,keyword,skin care order,Y
+Beauty & HPC,keyword,hooded eye makeup,Y
+Beauty & HPC,keyword,health beauty,Y
+Beauty & HPC,keyword,makeup brand,Y
+Beauty & HPC,keyword,make up box,Y
+Beauty & HPC,keyword,juice beauty,Y
+Beauty & HPC,keyword,huda beauty eyeshadow palette,Y
+Beauty & HPC,keyword,best lip plumper,Y
+Beauty & HPC,keyword,smashbox primer,Y
+Beauty & HPC,keyword,sunday riley good genes,Y
+Beauty & HPC,keyword,best eye cream for wrinkles,Y
+Beauty & HPC,keyword,makeup sale,Y
+Beauty & HPC,keyword,makeup case,Y
+Beauty & HPC,keyword,concealer makeup,Y
+Beauty & HPC,keyword,fenty beauty lip gloss,Y
+Beauty & HPC,keyword,caudalie serum,Y
+Beauty & HPC,keyword,laneige lip balm,Y
+Beauty & HPC,keyword,best face moisturizer for dry skin,Y
+Beauty & HPC,keyword,ariana grande makeup,Y
+Beauty & HPC,keyword,simple eye makeup,Y
+Beauty & HPC,keyword,makeup for men,Y
+Beauty & HPC,keyword,coconut oil on face,Y
+Beauty & HPC,keyword,makeup simple,Y
+Beauty & HPC,keyword,glamnetic nails,Y
+Beauty & HPC,keyword,best moisturizer for combination skin,Y
+Beauty & HPC,keyword,faiza cream,Y
+Beauty & HPC,keyword,dior make up,Y
+Beauty & HPC,keyword,sephora makeup,Y
+Beauty & HPC,keyword,makeup gift sets,Y
+Beauty & HPC,keyword,beauty care,Y
+Beauty & HPC,keyword,ilia mascara,Y
+Beauty & HPC,keyword,korean skin care products,Y
+Beauty & HPC,keyword,charlotte tilbury makeup,Y
+Beauty & HPC,keyword,face care,Y
+Beauty & HPC,keyword,milani lipstick,Y
+Beauty & HPC,keyword,korean cosmetics,Y
+Beauty & HPC,keyword,face moisturizer for dry skin,Y
+Beauty & HPC,keyword,face cream for dry skin,Y
+Beauty & HPC,keyword,dark circle treatment,Y
+Beauty & HPC,keyword,best face oil,Y
+Beauty & HPC,keyword,moira cosmetics,Y
+Beauty & HPC,keyword,eyeshadow makeup,Y
+Beauty & HPC,keyword,kiehl's eye cream,Y
+Beauty & HPC,keyword,huda beauty powder,Y
+Beauty & HPC,keyword,korean make up,Y
+Beauty & HPC,keyword,best makeup brand,Y
+Beauty & HPC,keyword,farmasi makeup,Y
+Beauty & HPC,keyword,barbie makeup,Y
+Beauty & HPC,keyword,best moisturizer for acne prone skin,Y
+Beauty & HPC,keyword,ilia skin tint,Y
+Beauty & HPC,keyword,nars makeup,Y
+Beauty & HPC,keyword,glisten cosmetics,Y
+Beauty & HPC,keyword,murad skin care,Y
+Beauty & HPC,keyword,brown lipstick,Y
+Beauty & HPC,keyword,goree beauty cream,Y
+Beauty & HPC,keyword,origins skin care,Y
+Beauty & HPC,keyword,best lip gloss,Y
+Beauty & HPC,keyword,swiss beauty lipstick,Y
+Beauty & HPC,keyword,laura geller makeup,Y
+Beauty & HPC,keyword,bronzer makeup,Y
+Beauty & HPC,keyword,kiehl's toner,Y
+Beauty & HPC,keyword,kiehl's serum,Y
+Beauty & HPC,keyword,skin beauty,Y
+Beauty & HPC,keyword,blue eye makeup,Y
+Beauty & HPC,keyword,skin glow cream,Y
+Beauty & HPC,keyword,korean makeup look,Y
+Beauty & HPC,keyword,rare beauty mascara,Y
+Beauty & HPC,keyword,isntree hyaluronic acid watery sun gel,Y
+Beauty & HPC,keyword,health and beauty,Y
+Beauty & HPC,keyword,best makeup remover,Y
+Beauty & HPC,keyword,morphe makeup,Y
+Beauty & HPC,keyword,nykaa products,Y
+Beauty & HPC,keyword,golden pearl cream,Y
+Beauty & HPC,keyword,elizabeth arden eight hour cream,Y
+Beauty & HPC,keyword,korean beauty products,Y
+Beauty & HPC,keyword,benefit makeup,Y
+Beauty & HPC,keyword,best body lotion for dry skin,Y
+Beauty & HPC,keyword,stila eyeliner,Y
+Beauty & HPC,keyword,best makeup,Y
+Beauty & HPC,keyword,gucci makeup,Y
+Beauty & HPC,keyword,milani makeup,Y
+Beauty & HPC,keyword,ponds white beauty face wash,Y
+Beauty & HPC,keyword,beauty cream,Y
+Beauty & HPC,keyword,best lip balm for dry lips,Y
+Beauty & HPC,keyword,clarins beauty flash balm,Y
+Beauty & HPC,keyword,makeup forever foundation,Y
+Beauty & HPC,keyword,best skin whitening cream,Y
+Beauty & HPC,keyword,loreal makeup,Y
+Beauty & HPC,keyword,natural skin care,Y
+Beauty & HPC,keyword,minimalist serum,Y
+Beauty & HPC,keyword,makeup blender,Y
+Beauty & HPC,keyword,face products,Y
+Beauty & HPC,keyword,best makeup primer,Y
+Beauty & HPC,keyword,cosmetic company store,Y
+Beauty & HPC,keyword,charlotte tilbury highlighter,Y
+Beauty & HPC,keyword,estee lauder makeup,Y
+Beauty & HPC,keyword,face skin care,Y
+Beauty & HPC,keyword,sensitive skin face wash,Y
+Beauty & HPC,keyword,green eye makeup,Y
+Beauty & HPC,keyword,skii facial treatment essence,Y
+Beauty & HPC,keyword,acne skin care,Y
+Beauty & HPC,keyword,best mascara 2021,Y
+Beauty & HPC,keyword,kat von d makeup,Y
+Beauty & HPC,keyword,cheap makeup,Y
+Beauty & HPC,keyword,clinique makeup,Y
+Beauty & HPC,keyword,marc jacobs mascara,Y
+Beauty & HPC,keyword,mary kay makeup,Y
+Beauty & HPC,keyword,ilia makeup,Y
+Beauty & HPC,keyword,rosehip oil for face,Y
+Beauty & HPC,keyword,glo skin beauty,Y
+Beauty & HPC,keyword,best serum for glowing skin,Y
+Beauty & HPC,keyword,caudalie beauty elixir,Y
+Beauty & HPC,keyword,too faced palette,Y
+Beauty & HPC,keyword,ulta makeup,Y
+Beauty & HPC,keyword,personal care products,Y
+Beauty & HPC,keyword,chanel cosmetics,Y
+Beauty & HPC,keyword,kp bump eraser body scrub,Y
+Beauty & HPC,keyword,elemis superfood,Y
+Beauty & HPC,keyword,catrice true skin foundation,Y
+Beauty & HPC,keyword,face cream for oily skin,Y
+Beauty & HPC,keyword,florasis makeup,Y
+Beauty & HPC,keyword,no makeup look,Y
+Beauty & HPC,keyword,natural cosmetics,Y
+Beauty & HPC,keyword,dior cosmetics,Y
+Beauty & HPC,keyword,fresh skin care,Y
+Beauty & HPC,keyword,skincare scarlett,Y
+Beauty & HPC,keyword,swiss beauty concealer,Y
+Beauty & HPC,keyword,jane iredale makeup,Y
+Beauty & HPC,keyword,cute makeup,Y
+Beauty & HPC,keyword,anti aging skin care,Y
+Beauty & HPC,keyword,japanese makeup,Y
+Beauty & HPC,keyword,kiehl's face wash,Y
+Beauty & HPC,keyword,huda beauty concealer,Y
+Beauty & HPC,keyword,natural eye makeup,Y
+Beauty & HPC,keyword,skin care for oily skin,Y
+Beauty & HPC,keyword,bridal eye makeup,Y
+Beauty & HPC,keyword,korean eye makeup,Y
+Beauty & HPC,keyword,victoria secret lip gloss,Y
+Beauty & HPC,keyword,best makeup brushes set,Y
+Beauty & HPC,keyword,skii essence,Y
+Beauty & HPC,keyword,pink eye makeup,Y
+Beauty & HPC,keyword,kiehl's lip balm,Y
+Beauty & HPC,keyword,maybelline perfector 4 in 1,Y
+Beauty & HPC,keyword,retinol skin care,Y
+Beauty & HPC,keyword,cerave skin care,Y
+Beauty & HPC,keyword,skincare glowing,Y
+Beauty & HPC,keyword,bareminerals concealer,Y
+Beauty & HPC,keyword,pride makeup,Y
+Beauty & HPC,keyword,jaclyn hill cosmetics,Y
+Beauty & HPC,keyword,klairs toner,Y
+Beauty & HPC,keyword,bliss skincare,Y
+Beauty & HPC,keyword,cerave cream to foam cleanser,Y
+Beauty & HPC,keyword,ponds bb cream price,Y
+Beauty & HPC,keyword,clinique dramatically different moisturizing gel,Y
+Beauty & HPC,keyword,make up shop,Y
+Beauty & HPC,keyword,cetaphil bright healthy radiance,Y
+Beauty & HPC,keyword,smashbox foundation,Y
+Beauty & HPC,keyword,vegan makeup,Y
+Beauty & HPC,keyword,hard candy makeup,Y
+Beauty & HPC,keyword,fenty skin tint,Y
+Beauty & HPC,keyword,it cosmetics foundation,Y
+Beauty & HPC,keyword,kate somerville exfolikate,Y
+Beauty & HPC,keyword,best cream for dry skin,Y
+Beauty & HPC,keyword,good skin care products,Y
+Beauty & HPC,keyword,swiss beauty eyeshadow palette,Y
+Beauty & HPC,keyword,skin care cream,Y
+Beauty & HPC,keyword,best moisturizer for sensitive skin,Y
+Beauty & HPC,keyword,eye gel,Y
+Beauty & HPC,keyword,10 step korean skin care,Y
+Beauty & HPC,keyword,chanel makeup bag,Y
+Beauty & HPC,keyword,beauty makeup,Y
+Beauty & HPC,keyword,beauty cosmetics,Y
+Beauty & HPC,keyword,face serum for dry skin,Y
+Beauty & HPC,keyword,makeup online,Y
+Beauty & HPC,keyword,purlisse bb cream,Y
+Beauty & HPC,keyword,tarte eyeshadow palette,Y
+Beauty & HPC,keyword,elemis skincare,Y
+Beauty & HPC,keyword,skin products,Y
+Beauty & HPC,keyword,best korean skin care products,Y
+Beauty & HPC,keyword,too faced bronzer,Y
+Beauty & HPC,keyword,pregnancy safe skin care,Y
+Beauty & HPC,keyword,fenty gloss,Y
+Beauty & HPC,keyword,mua makeup,Y
+Beauty & HPC,keyword,bali body tan,Y
+Beauty & HPC,keyword,no makeup makeup,Y
+Beauty & HPC,keyword,millie bobby brown makeup,Y
+Beauty & HPC,keyword,makeup forever hd foundation,Y
+Beauty & HPC,keyword,no makeup makeup look,Y
+Beauty & HPC,keyword,tatcha skin care,Y
+Beauty & HPC,keyword,fenty contour stick,Y
+Beauty & HPC,keyword,wet n wild tinted hydrator,Y
+Beauty & HPC,keyword,step by step makeup,Y
+Beauty & HPC,keyword,makeup remover balm,Y
+Beauty & HPC,keyword,essence skin care,Y
+Beauty & HPC,keyword,chanel skin care,Y
+Beauty & HPC,keyword,wholesale cosmetics,Y
+Beauty & HPC,keyword,the brow trio,Y
+Beauty & HPC,keyword,kiehl's sunscreen,Y
+Beauty & HPC,keyword,clinique moisture surge 100h,Y
+Beauty & HPC,keyword,glowing skin products,Y
+Beauty & HPC,keyword,collagen skin care,Y
+Beauty & HPC,keyword,base makeup,Y
+Beauty & HPC,keyword,glow makeup,Y
+Beauty & HPC,keyword,cosmetic company,Y
+Beauty & HPC,keyword,human race skincare,Y
+Beauty & HPC,keyword,sephora sale 2021,Y
+Beauty & HPC,keyword,harry potter makeup,Y
+Beauty & HPC,keyword,nyx marshmallow primer,Y
+Beauty & HPC,keyword,glossier skin tint,Y
+Beauty & HPC,keyword,fenty makeup,Y
+Beauty & HPC,keyword,maybelline mascara sky high,Y
+Beauty & HPC,keyword,matcha hemp hydrating cleanser,Y
+Beauty & HPC,keyword,lakme absolute perfect radiance,Y
+Beauty & HPC,keyword,younique makeup,Y
+Beauty & HPC,keyword,huda lipstick,Y
+Beauty & HPC,keyword,ilia super serum skin tint,Y
+Beauty & HPC,keyword,best body lotion for glowing skin,Y
+Beauty & HPC,keyword,pixi by petra,Y
+Beauty & HPC,keyword,beauty pillow,Y
+Beauty & HPC,keyword,natural skin care products,Y
+Beauty & HPC,keyword,gucci mascara,Y
+Beauty & HPC,keyword,huda beauty primer,Y
+Beauty & HPC,keyword,makeup items,Y
+Beauty & HPC,keyword,trinny makeup,Y
+Beauty & HPC,keyword,body care products,Y
+Beauty & HPC,keyword,cerave hydrating cream to foam cleanser,Y
+Beauty & HPC,keyword,best makeup products,Y
+Beauty & HPC,keyword,smashbox lipstick,Y
+Beauty & HPC,keyword,huda beauty eyeshadow,Y
+Beauty & HPC,keyword,the balm cosmetics,Y
+Beauty & HPC,keyword,marc jacobs eyeliner,Y
+Beauty & HPC,keyword,wholesale makeup,Y
+Beauty & HPC,keyword,nykaa cosmetics,Y
+Beauty & HPC,keyword,lancome makeup,Y
+Beauty & HPC,keyword,kiko makeup,Y
+Beauty & HPC,keyword,make up case,Y
+Beauty & HPC,keyword,pancake makeup,Y
+Beauty & HPC,keyword,eight hour cream,Y
+Beauty & HPC,keyword,two faced makeup,Y
+Beauty & HPC,keyword,vintage makeup,Y
+Beauty & HPC,keyword,clinique skin care,Y
+Beauty & HPC,keyword,best face cream for dry skin,Y
+Beauty & HPC,keyword,best eye cream for puffiness,Y
+Beauty & HPC,keyword,vanicream daily facial moisturizer,Y
+Beauty & HPC,keyword,makeup order,Y
+Beauty & HPC,keyword,ponds pimple clear face wash,Y
+Beauty & HPC,keyword,leg makeup,Y
+Beauty & HPC,keyword,drunk elephant moisturizer,Y
+Beauty & HPC,keyword,dr jart bb cream,Y
+Beauty & HPC,keyword,sephora gift sets,Y
+Beauty & HPC,keyword,makeup bg,Y
+Beauty & HPC,keyword,beauty factory,Y
+Beauty & HPC,keyword,beauty bag,Y
+Beauty & HPC,keyword,too faced eyeshadow palette,Y
+Beauty & HPC,keyword,mecca makeup,Y
+Beauty & HPC,keyword,crazy beautiful makeup,Y
+Beauty & HPC,keyword,korean products,Y
+Beauty & HPC,keyword,best moisturizer for dry sensitive skin,Y
+Beauty & HPC,keyword,japanese skin care,Y
+Beauty & HPC,keyword,ponds toner,Y
+Beauty & HPC,keyword,korean makeup products,Y
+Beauty & HPC,keyword,kiehl's ultra facial cleanser,Y
+Beauty & HPC,keyword,best skin care products for men,Y
+Beauty & HPC,keyword,cosmetic items,Y
+Beauty & HPC,keyword,fenty beauty contour stick,Y
+Beauty & HPC,keyword,kiehl's creme de corps,Y
+Beauty & HPC,keyword,mascara maybelline sky high,Y
+Beauty & HPC,keyword,beauty glazed eyeshadow palette,Y
+Beauty & HPC,keyword,eve lom cleanser,Y
+Beauty & HPC,keyword,boom makeup,Y
+Beauty & HPC,keyword,active beauty,Y
+Beauty & HPC,keyword,reusable makeup remover pads,Y
+Beauty & HPC,keyword,saint makeup,Y
+Beauty & HPC,keyword,organic skin care,Y
+Beauty & HPC,keyword,dove beauty cream,Y
+Beauty & HPC,keyword,huda beauty mascara,Y
+Beauty & HPC,keyword,best night cream for glowing skin,Y
+Beauty & HPC,keyword,it cosmetics confidence in a cream,Y
+Beauty & HPC,keyword,makeup revolution concealer,Y
+Beauty & HPC,keyword,best chapstick for dry lips,Y
+Beauty & HPC,keyword,best lip scrub,Y
+Beauty & HPC,keyword,glossier mascara,Y
+Beauty & HPC,keyword,organic makeup,Y
+Beauty & HPC,keyword,fenty concealer,Y
+Beauty & HPC,keyword,best primer for combination skin,Y
+Beauty & HPC,keyword,hollywood beauty supply,Y
+Beauty & HPC,keyword,aveeno oat gel moisturizer,Y
+Beauty & HPC,keyword,st moriz tanning mousse,Y
+Beauty & HPC,keyword,absolute beauty,Y
+Beauty & HPC,keyword,hourglass makeup,Y
+Beauty & HPC,keyword,soap and glory face wash,Y
+Beauty & HPC,keyword,nuxe lip balm,Y
+Beauty & HPC,keyword,best cream for oily skin,Y
+Beauty & HPC,keyword,vegan skincare,Y
+Beauty & HPC,keyword,bump eraser body scrub,Y
+Beauty & HPC,keyword,face care products,Y
+Beauty & HPC,keyword,morphe makeup brushes,Y
+Beauty & HPC,keyword,organic beauty,Y
+Beauty & HPC,keyword,best eye serum,Y
+Beauty & HPC,keyword,fenty bronzer,Y
+Beauty & HPC,keyword,glossier makeup,Y
+Beauty & HPC,keyword,best serum for dry skin,Y
+Beauty & HPC,keyword,maybelline makeup,Y
+Beauty & HPC,keyword,huda beauty highlighter,Y
+Beauty & HPC,keyword,skin whitening products,Y
+Beauty & HPC,keyword,best makeup for older women,Y
+Beauty & HPC,keyword,bb beauty,Y
+Beauty & HPC,keyword,makeup box set,Y
+Beauty & HPC,keyword,makeup essentials,Y
+Beauty & HPC,keyword,list of makeup items,Y
+Beauty & HPC,keyword,black makeup,Y
+Beauty & HPC,keyword,mascara makeup,Y
+Beauty & HPC,keyword,bare minerals makeup,Y
+Beauty & HPC,keyword,best korean skincare,Y
+Beauty & HPC,keyword,makeup remover pads,Y
+Beauty & HPC,keyword,merit makeup,Y
+Beauty & HPC,keyword,skin care by hyram,Y
+Beauty & HPC,keyword,too faced makeup,Y
+Beauty & HPC,keyword,makeup revolution palette,Y
+Beauty & HPC,keyword,skin care beauty the best,Y
+Beauty & HPC,keyword,makeup list,Y
+Beauty & HPC,keyword,best lip plumping gloss,Y
+Beauty & HPC,keyword,beautiful day bath and body works,Y
+Beauty & HPC,keyword,best body moisturizer for dry skin,Y
+Beauty & HPC,keyword,swiss beauty primer,Y
+Beauty & HPC,keyword,dove face cream,Y
+Beauty & HPC,keyword,sky high mascara maybelline,Y
+Beauty & HPC,keyword,maybelline lash sensational sky high mascara,Y
+Beauty & HPC,keyword,versed dew point moisturizing gel cream,Y
+Beauty & HPC,keyword,peace out retinol eye stick,Y
