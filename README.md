@@ -4,7 +4,7 @@ It is designed for Ads analysis.
 
 Note : this hasn't been packaged yet into an app
 
-## Structure
+## Approach
 
 1. Define a list of keywords, download related videos.
 2. Create a subset of videos by brand for specific keywords.
